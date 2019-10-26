@@ -6,4 +6,4 @@ Many businesses and teams use Slack as their primary means of communication. Sla
 2. Run `npm install` to install the dependencies
 3. Run `npm run dev` to start the development server
 
-Please read more about this integration in this blog post.
+Please read more about this integration in [this](https://andredevries.dev/posts/slack-alteryx-integration/) blog post.
